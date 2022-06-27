@@ -1,0 +1,94 @@
+body {
+	background: black;
+	color: white
+	}
+	
+.info p {
+	color: white;
+	margin: 0;
+	}
+.c{
+	max-width: 97%;
+	background: blueViolet;
+	margin: 30px;
+	border-radius: 15px;
+	padding: 10px;
+	padding-bottom:590px;
+}
+
+.info {
+	display: flex;
+}
+
+.name {
+	padding: 10px;
+}
+
+.possition{
+
+}
+
+.box{
+	
+	position: absolute;
+	top: 70px;
+	left: 650px;
+	width: 1178px;
+	height: 800px;
+	background: darkviolet;
+	border-radius: 15px;
+	box-shadow: 12px 12px 16px 10px black;
+}
+
+.contact {
+	
+}
+
+.form-group label {
+
+}
+
+.form-group input {
+	width: 27%;
+}
+
+.form-grou input {
+	width: 50%;
+}
+
+
+.about {
+	position: absolute;
+	top: 65px;
+	left: 655px;
+}
+
+.coc img {
+	border-radius: 15px;
+
+}
+
+.form-grou input {
+	width: 445px;
+}
+
+
+
+.bo {
+	position: absolute;
+	top: 325px;
+	left: 120px;
+	width: 100px;
+	height: 30px;
+	background: black;
+	border-radius: 15px;
+	
+	
+	
+}
+
+.telegram {
+	
+	position: absolute;
+	left: 140px;
+}
